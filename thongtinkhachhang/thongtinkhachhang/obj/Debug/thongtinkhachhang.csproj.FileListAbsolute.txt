@@ -1,0 +1,10 @@
+D:\ProJectDoAn\thongtinkhachhang\thongtinkhachhang\bin\Debug\thongtinkhachhang.exe.config
+D:\ProJectDoAn\thongtinkhachhang\thongtinkhachhang\bin\Debug\thongtinkhachhang.exe
+D:\ProJectDoAn\thongtinkhachhang\thongtinkhachhang\bin\Debug\thongtinkhachhang.pdb
+D:\ProJectDoAn\thongtinkhachhang\thongtinkhachhang\obj\Debug\thongtinkhachhang.csproj.AssemblyReference.cache
+D:\ProJectDoAn\thongtinkhachhang\thongtinkhachhang\obj\Debug\thongtinkhachhang.Form1.resources
+D:\ProJectDoAn\thongtinkhachhang\thongtinkhachhang\obj\Debug\thongtinkhachhang.Properties.Resources.resources
+D:\ProJectDoAn\thongtinkhachhang\thongtinkhachhang\obj\Debug\thongtinkhachhang.csproj.GenerateResource.cache
+D:\ProJectDoAn\thongtinkhachhang\thongtinkhachhang\obj\Debug\thongtinkhachhang.csproj.CoreCompileInputs.cache
+D:\ProJectDoAn\thongtinkhachhang\thongtinkhachhang\obj\Debug\thongtinkhachhang.exe
+D:\ProJectDoAn\thongtinkhachhang\thongtinkhachhang\obj\Debug\thongtinkhachhang.pdb
